@@ -3,3 +3,4 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
 ![Static Badge](https://img.shields.io/badge/-nike-violet?style=plastic&logo=nike)
+![Static Badge](https://img.shields.io/badge/-marvelapp-red?style=plastic&logo=marvelapp)
